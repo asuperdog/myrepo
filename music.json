@@ -1,61 +1,61 @@
 [{
 		"id": 1,
 		"name": "What Lovers Do",
-		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/01.mp3"
+		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/ogg/01.mp3"
 	},
 	{
 		"id": 2,
 		"name": "刻在我心底的名字",
-		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/02.mp3"
+		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/ogg/02.mp3"
 	},
 	{
 		"id": 3,
 		"name": "Honesty",
-		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/03.mp3"
+		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/ogg/03.mp3"
 	},
 	{
 		"id": 4,
 		"name": "Love Is Gone",
-		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/04.mp3"
+		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/ogg/04.mp3"
 	},
 	{
 		"id": 5,
 		"name": "Melancholy",
-		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/05.mp3"
+		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/ogg/05.mp3"
 	},
 	{
 		"id": 6,
 		"name": "Peaches",
-		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/06.mp3"
+		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/ogg/06.mp3"
 	},
 	{
 		"id": 7,
 		"name": "Pink Champagne",
-		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/07.mp3"
+		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/ogg/07.mp3"
 	},
 	{
 		"id": 8,
 		"name": "走进你心里",
-		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/08.mp3"
+		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/ogg/08.mp3"
 	},
 	{
 		"id": 9,
 		"name": "你永远是我的宝贝",
-		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/09.mp3"
+		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/ogg/09.mp3"
 	},
 	{
 		"id": 10,
 		"name": "这世界那么多人",
-		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/10.mp3"
+		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/ogg/10.mp3"
 	},
 	{
 		"id": 11,
 		"name": "零几年听的情歌",
-		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/11.mp3"
+		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/ogg/11.mp3"
 	},
 	{
 		"id": 12,
 		"name": "在一起嘛好不好",
-		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/12.mp3"
+		"src": "https://cdn.jsdelivr.net/gh/asuperdog/myrepo@master/ogg/12.mp3"
 	}
 ]
